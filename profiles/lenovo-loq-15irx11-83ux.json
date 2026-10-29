@@ -1,0 +1,8 @@
+{
+  "id": "lenovo-loq-15irx11-83ux",
+  "machineTypes": ["83UX"],
+  "family": "LOQ Essential 15IRX11",
+  "gpu": "NVIDIA GeForce RTX 5050 Laptop (Blackwell, sm_120a, 8 GB GDDR7)",
+  "llm": { "smartFanMode": 3, "dynamicBoostWatts": 15, "powerPlan": "381b4222-f694-41f0-9685-ff5bb260df2e" },
+  "validation": "Aplicado e confirmado pelo usuario (P2, 11001 MHz mem, 1700-2000 MHz SM). WMI nao relido apos o UAC."
+}
